@@ -1,3 +1,3 @@
 # assignments
 
-this repository contains my assignments, if I ahd finished any
+\this repository contains my assignments, but I haven't finished mine yet :(:(:(
